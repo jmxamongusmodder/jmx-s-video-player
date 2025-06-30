@@ -13,7 +13,7 @@ if (!$file || !file_exists($filepath)) {
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
-<title>Pro Custom Video Player - <?php echo htmlspecialchars($filename); ?></title>
+<title>VP - <?php echo htmlspecialchars($filename); ?></title>
 <style>
   body {
     background: #121212;
